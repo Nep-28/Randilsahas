@@ -22,7 +22,7 @@
 </details>
  ----
  <p align="center">
- <img src="https://telegra.ph/file/299621db834e12e0ab8ea.jpg" alt="nz" width="350"/>
+ <img src="https://telegra.ph/file/42edcdf1b1447d70d5d1e.jpg" alt="nz" width="350"/>
  </p>
  
 
