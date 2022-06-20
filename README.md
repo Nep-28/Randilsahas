@@ -2,9 +2,9 @@
 
 # 👋 Hi Im Randil Sahas 
 
-# 🏡️ Im From Sri Lanka 
+# 🏡️  From Sri Lanka 
 
-# 🙋 Im 14 Years old
+# 🙋  14 Years old
 
 # 🐺 I'm Just A Student Not Programmer
 
