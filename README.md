@@ -15,9 +15,9 @@
 
   <a href="https://wa.me/94702476028"><img src="https://img.shields.io/badge/Contact Neptune-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <br>
 
-</details>
+
  
-----
+
    
 <!--My Whatsapp Groups-->   
 <b><summary> My Whatsapp Group </summary></b>
