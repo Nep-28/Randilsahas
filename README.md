@@ -20,7 +20,7 @@
 ----
    
 <!--My Whatsapp Groups-->   
-<b><details><summary> My Whatsapp Group </summary></b>
+<b><summary> My Whatsapp Group </summary></b>
  
   
   <a href="https://chat.whatsapp.com/Gi47BN7YM30321sUIa7mtT"><img src="https://img.shields.io/badge/Whatsapp Group-25D366?style=for-the-badge&logo=whatspp&logoColor=white" /> <br>
