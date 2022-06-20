@@ -6,5 +6,5 @@
 
 # 🙋 Im 14 Years old
 
-# Im  Student Not A Teacher
+# 🐺 I'm Just A Student Not Programmer
 
