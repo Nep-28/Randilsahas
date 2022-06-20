@@ -10,5 +10,5 @@
 
 # 🍃 Currently Learning, Nothing 
 
-<!-- Contact Me -->
+# <!-- Contact Me -->
 <b><details><summary>Contact Me</summary></b>
